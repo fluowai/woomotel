@@ -1,0 +1,7 @@
+{
+  "name": "Hospedex - MotelOS",
+  "description": "Sistema SaaS especializado para gestão de motéis com foco em sigilo, agilidade operacional e cobrança por hora em tempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
